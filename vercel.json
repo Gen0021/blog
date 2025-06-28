@@ -17,7 +17,7 @@
         },
         {
             "src": "/(.*)",
-            "dest": "blogproject/wsgi.py"
+            "dest": "blogproject/blogprojecvt/wsgi.py"
         }
     ],
     "env": {
